@@ -9,8 +9,8 @@ target: elkpi-audio-os-image
 
 repos:
   meta-elkpi:
-    url: https://github.com/elk-audio/meta-elkpi.git
-    commit: a262b989b6325250c41073fa7113df1b7364a2d5
+    url: https://github.com/Asherslab/meta-elkpi.git
+    commit: 09687b83c5d83aeb29d701496678fd46b9a67e27
     path: layers/meta-elkpi
   meta-raspberrypi-elk:
     url: https://github.com/elk-audio/meta-raspberrypi-elk.git
